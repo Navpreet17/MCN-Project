@@ -1,0 +1,70 @@
+
+/* Add your custom styles here */
+body {
+  background-color: #35A29F;
+  font-family: "proxima-nova", sans-serif;
+  font-style: normal;
+font-weight: 700;
+}
+
+.container {
+  margin-top: 3%;
+  padding: auto;
+}
+
+.jumbotron {
+  background-color: #071952;
+  color: #fff;
+}
+
+.btn-primary {
+  background-color: #071952;
+  border-color: #071952;
+}
+
+.btn-primary:hover {
+  background-color: #07523b;
+  border-color: #07523b;
+}
+
+.features-section {
+  background-color: #97FEED;
+  padding: 50px 0;
+ 
+}
+
+.feature-box {
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #97FEED;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  transition: all 0.3s ease;
+}
+
+.feature-box i {
+  font-size: 48px;
+  margin-bottom: 20px;
+  color: #071952;
+}
+
+.feature-box h3 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #071952;
+}
+
+.feature-box p {
+  font-size: 16px;
+  color: #777;
+}
+
+img{
+  width: 200px;
+  height: 60px;
+}
+
+.price-section{
+  padding: 50px;
+}
