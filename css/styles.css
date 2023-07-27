@@ -2,9 +2,9 @@
 /* Add your custom styles here */
 body {
   background-color: #35A29F;
-  font-family: "proxima-nova", sans-serif;
   font-style: normal;
-font-weight: 700;
+ font-weight: 700;
+ font-family: 'Kanit', sans-serif;
 }
 
 .container {
@@ -15,6 +15,10 @@ font-weight: 700;
 .jumbotron {
   background-color: #071952;
   color: #fff;
+}
+
+.blue{
+  background-color: #071952;
 }
 
 .btn-primary {
@@ -61,8 +65,12 @@ font-weight: 700;
 }
 
 img{
-  width: 200px;
+  width: 250px;
   height: 60px;
+}
+
+.nav-item{
+  color: #fff;
 }
 
 .price-section{
